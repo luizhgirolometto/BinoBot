@@ -33,8 +33,7 @@ Tendo em mente que os caminhoneiros passam a maior parte do seu tempo dentro do 
 Utilizando desse recurso podemos otimizar os percursos e permitir ao caminhoneiro um melhor controle financeiro ao mesmo tempo em que será aconselhado e indicado a melhores locais de parada visando sempre seu conforto e segurança.
 
 # Monetização
-
-	Com o advento da internet em nossas casas e em nossas mãos, por meio dos smartphones, a informação se tornou uma moeda muito valiosa, sendo assim 
+Com o advento da internet em nossas casas e em nossas mãos, por meio dos smartphones, a informação se tornou uma moeda muito valiosa, sendo assim 
 Google e Facebook que fornecem suas aplicações gratuitas a seus milhões de usuários, em troca recebem uma enxurrada de informações as vendem para outras empresas gerando receita.
-	A nossa aplicação sera gratuita ao motorista, porem faremos a coleta das informações, assim como origem e destino, tipo do caminhão, modelo, consumo. 
-	Assim podemos enviar ao motorista conteudo patrocinado de restaurante, postos de combustiveis, oficinas mecânica e outras que estão na rota.
+A nossa aplicação sera gratuita ao motorista, porem faremos a coleta das informações, assim como origem e destino, tipo do caminhão, modelo, consumo. 
+Assim podemos enviar ao motorista conteudo patrocinado de restaurante, postos de combustiveis, oficinas mecânica e outras que estão na rota.
