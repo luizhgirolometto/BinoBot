@@ -19,3 +19,8 @@ Para a resolução desse desafio foi proposto um aplicativo com o intuito de aux
 
 ![Matriz SWOT](https://github.com/luizhgirolometto/BinoBot/blob/master/%C3%ADndice.jpg)
 
+# Canvas
+
+Para melhor entendimento foi criado um canvas
+
+![Matriz SWOT](https://github.com/luizhgirolometto/BinoBot/blob/master/canvas.jpg)
