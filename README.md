@@ -3,10 +3,10 @@ Projeto para participação do Hackaton CCR.
 
 ## Integrantes
 
-- [Lucas Pereira]: Marketing
+- [Lucas Pereira] Marketing
 - [Guilherme Capecci] Developer
 - [Luiz Henrique Girometto](https://www.linkedin.com/in/girolometto/): Business
-- [Nilton Carlos de Alemida Jr]: Business
+- [Nilton Carlos de Alemida Jr] Business
 
 Desafio Escolhido - BinoBot
 Como melhorar a vida e a rotina de trabalho dos caminhoneiros trazendo mais segurança e conforto.
