@@ -17,3 +17,5 @@ Para a resolução desse desafio foi proposto um aplicativo com o intuito de aux
 
 # Matriz Swot
 
+![Matriz SWOT](https://github.com/luizhgirolometto/BinoBot/blob/master/%C3%ADndice.jpg)
+
