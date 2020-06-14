@@ -24,3 +24,10 @@ Para a resolução desse desafio foi proposto um aplicativo com o intuito de aux
 Para melhor entendimento foi criado um canvas
 
 ![Matriz SWOT](https://github.com/luizhgirolometto/BinoBot/blob/master/canvas.jpg)
+
+# Soluções Escolhidas
+
+Tendo em mente que os caminhoneiros passam a maior parte do seu tempo dentro do seu caminhão e em rotas de entregas, foi criado um prototipo de aplicativo integrado a um chatbot com uma solução onde o caminhoneiro consegue localizar pontos de paradas seguros, locais de alimentação e locais para cuidados com a saude possibilitando também o calculo da rota e o consumo de combustivel estimado  baseado nas infomações do motorista cadastrado.  
+Utilizando desse recurso podemos otimizar os percursos e permitir ao caminhoneiro um melhor controle financeiro ao mesmo tempo em que será aconselhado e indicado a melhores locais de parada visando sempre seu conforto e segurança.Soluções Escolhidas.
+Tendo em mente que os caminhoneiros passam a maior parte do seu tempo dentro do seu caminhão e em rotas de entregas, foi criado um prototipo de aplicativo integrado a um chatbot com uma solução onde o caminhoneiro consegue localizar pontos de paradas seguros, locais de alimentação e locais para cuidados com a saude possibilitando também o calculo da rota e o consumo de combustivel estimado  baseado nas infomações do motorista cadastrado.  
+Utilizando desse recurso podemos otimizar os percursos e permitir ao caminhoneiro um melhor controle financeiro ao mesmo tempo em que será aconselhado e indicado a melhores locais de parada visando sempre seu conforto e segurança.
