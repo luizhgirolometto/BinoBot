@@ -37,3 +37,11 @@ Com o advento da internet em nossas casas e em nossas mãos, por meio dos smartp
 Google e Facebook que fornecem suas aplicações gratuitas a seus milhões de usuários, em troca recebem uma enxurrada de informações as vendem para outras empresas gerando receita.
 A nossa aplicação sera gratuita ao motorista, porem faremos a coleta das informações, assim como origem e destino, tipo do caminhão, modelo, consumo. 
 Assim podemos enviar ao motorista conteudo patrocinado de restaurante, postos de combustiveis, oficinas mecânica e outras que estão na rota.
+
+# Tecnologia e chatbot
+
+O BinoBot, foi treinado com um algoritmo de Processamento de Linguagem Natural, utilizando Inteligência Artificial, para entender o que o motorista deseja no momento em que aciona o BinoBot. O algoritmo foi treinado, para entender palavras chaves do cotidiano dos caminhoneiros, como por exemplo, se o motorista está em uma área de risco, e sente que está em perigo, ele pode mandar uma mensagem para o BinoBot por áudio ou mensagem dizendo que está correndo perigo,o BinoBot consegue entender, e irá ligar ou mandar mensagem, para a polícia ou por um telefone pré cadastrado pelo caminhoneiro em nossas bases de dados.
+A partir do momento que O BinoBot começar a ser utilizado, ele começa analisar os dados de cada caminhoneiro, como rotas percorridas e lugares frequentados e conseguira propor novas rotas, auxiliará em sua saúde informando sobre lugares de atendimento, dicas de saúde de acordo com sua faixa etária, auxiliará no acompanhamento de consumo e manutenção do sua ferramenta de trabalho, informações sobre guinchos, mecânicos ou borracheiro perto de sua localização.
+O BinoBot não é só um Assistente virtual, vem para ser o companheiro dos caminhoneiros de trecho, auxiliando em seu cotidiano para melhorar sua saúde, finanças pessoais e ajudando o caminhoneiro com tecnologia de ponta.
+Além do BinoBot WhatsApp, o caminhoneiro contará com um app e um portal web, para ajudar nas informações complementares que somente o WhatsApp, não atenderia. 
+O App e Portal web, oferece serviços como, visualização das rotas em mapas, controle da sua vida financeira, calendário para controle de viagens e consultas marcadas, assistir vídeos dicas dos diversos temas, mas temas que são do seu cotidiano
