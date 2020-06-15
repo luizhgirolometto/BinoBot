@@ -45,3 +45,7 @@ A partir do momento que O BinoBot começar a ser utilizado, ele começa analisar
 O BinoBot não é só um Assistente virtual, vem para ser o companheiro dos caminhoneiros de trecho, auxiliando em seu cotidiano para melhorar sua saúde, finanças pessoais e ajudando o caminhoneiro com tecnologia de ponta.
 Além do BinoBot WhatsApp, o caminhoneiro contará com um app e um portal web, para ajudar nas informações complementares que somente o WhatsApp, não atenderia. 
 O App e Portal web, oferece serviços como, visualização das rotas em mapas, controle da sua vida financeira, calendário para controle de viagens e consultas marcadas, assistir vídeos dicas dos diversos temas, mas temas que são do seu cotidiano
+
+# Implementação do chatbot
+
+Chatbot usando a plataforma Dialogflow + IA do Google
